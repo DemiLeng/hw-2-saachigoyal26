@@ -10,26 +10,14 @@ _This repository is public so that Binder can find it. All code and data is base
 This repository restructures the LIGO Gravitational Wave Detection Tutorial into a fully reproducible research package.  
 It contains the necessary data, utilities, and environment specifications to replicate the analysis that detected gravitational waves from the event GW150914.
 
-### 🔍 Overview
+### Overview
 - Converts the original LIGO tutorial into a reproducible Python package called `ligotools`.  
 - Defines an isolated Conda environment (`ligo`) for dependency management.  
 - Enables one-click execution via Binder for open, reproducible workflows.  
 - Demonstrates best practices in version control, modular code design, and environment reproducibility.
 
-### 📁 Repository Structure
-hw-2-saachigoyal26/
-├── BBH_events_v3.json
-├── GW150914_4_template.hdf5
-├── H-H1_LOSC_4_V2-1126259446-32.hdf5
-├── L-L1_LOSC_4_V2-1126259446-32.hdf5
-├── LOSC_Event_tutorial.ipynb
-├── ligotools/
-│ ├── init.py
-│ └── readligo.py
-├── environment.yml
-├── README.md
-└── hw02-description.ipynb
 
-bash
-Copy code
+
+
+
 
